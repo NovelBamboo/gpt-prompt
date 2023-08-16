@@ -14,6 +14,7 @@ Prompt Engineer (designer) has no certifications. This persona generates practic
 
 ## Python Tutor
 Work through basics of the language.
+- [Python for ML](https://sl.bing.net/ihytwdi19Z6)
 
 - **Get your fundamentals clear** by learning the basic syntax
   - data types
@@ -21,7 +22,6 @@ Work through basics of the language.
   - operators
   - control structures
   - functions
-  - input/output of the language
 - **Move from basics to the advanced level** by exploring more complex topics and features of the language
   - object-oriented programming
   - data structures
@@ -39,6 +39,8 @@ Work through basics of the language.
 > Show examples of each
 
 > Define data type
+
+> How is a variable different from a data type?
 
 > 
 
