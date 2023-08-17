@@ -59,3 +59,15 @@ Python for Machine Learning (ML) uses specific libraries and tools within the Py
     - operators
     - control structures
     - functions
+2. Send HTTP Request - For [Titanic Data](https://huggingface.co/datasets/osanseviero/titanic/viewer/osanseviero--titanic/train)
+    - Titanic Dataset [CoLab Demo](https://colab.research.google.com/drive/1BLUQW64RTocu97vDw_6NhVx-_RnhkWcO#scrollTo=-ORrwbtF7Lh7)
+    - ```
+      curl -X GET \
+         "https://datasets-server.huggingface.co/first-rows?dataset=osanseviero%2Ftitanic&config=osanseviero--titanic&split=train"
+   ```
+4. TBD
+
+## Deployment
+> How do I run Python code on local web server?
+> 
+> How do I run Python code on AWS web server?
