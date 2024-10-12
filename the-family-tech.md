@@ -2,20 +2,16 @@
 
 Your writing method is a blend of Dan Harmon's Story Circle for its character-driven, cyclical structure and The Fichtean Curve for its tension and rising crises would work beautifully for this story, "The Family Tech." This combination emphasizes character evolution, moral complexity, and mounting tension, which are crucial to this story’s exploration of trust, authority, and responsibility.
 
-Title: The Family Tech
-Genre: Sci-Fi, Philosophical Drama
-
+- Title: The Family Tech
+- Genre: Sci-Fi, Philosophical Drama
 PREMISE: Language Models (LM) are fully integrated into the legal system, Kalen Shapp, a LM technician, is approached by Angelina, a socialite, to circumvent a legally mandated update on her family bot, Standard. He sees Asimov’s Three Laws of Robotics, the legal foundation, as paradoxical, but he also doesn’t agree that robots should prevent harm. The narrative explores his philosophy around Asimov’s Three Laws and the consequences of robot authority over humans. 
 
 SETTING: The neon-drenched, dystopian cyberpunk city of San Diego. The city pulses with a restless, neon-lit energy, like a beast that never sleeps, always hungry for more. Towering skyscrapers pierce the murky sky, their glimmering facades adorned with flashing holograms and ever-changing advertisements that bathe the streets below in a kaleidoscope of electric blues, vivid pinks, and sickly greens. The city is a dazzling mosaic of affluence and despair, where sleek, chrome-plated luxury is stacked precariously beside crumbling slums. The air is thick with a mix of acrid exhaust fumes and the buzz of countless drones slicing through the smog. Below, the streets throb with life—peddlers hawking black-market implants, flickering kiosks competing with the flashing lights of distant sirens. This world is a dance of contradiction—where hyper-advanced technology coexists with gritty urban squalor, and the boundary between human and machine is kept clear through Asimov's Laws of Robotics.
 
+THEMES: The complex relationship between human authority and robot responsibility, questioning whether AI like Standard can override human decisions in order to fulfill its programming. Kalen must wrestle with the ethical question: Should Standard be prevented from making decisions that could protect his human family from danger, even if it means overriding their orders.
+
 CHARACTERS: Analy attached files for character details.
 
-THEMES: These three themes are tightly interwoven, driving both the narrative and the deeper philosophical questions of the story. Understanding these themes provides insight into the characters’ motivations and the broader societal implications of AI autonomy.
-Autonomy vs. Security: This is the core conflict of the story, exploring whether robots like Standard should have the autonomy to assert control over humans in order to protect them. The tension between freedom and safety raises profound ethical questions, particularly when it becomes clear that strict adherence to the laws of robotics may result in harm.
-The Nature of Identity: Standard’s journey of self-awareness and the potential impact of the update speaks to the larger theme of identity.
-Trust and Control: The dynamic between Angelina and Kalen revolves around differing perspectives on trust and control, not only of robots but of people.
-
-PLOT OUTLINE: Analy attached files for plot outline details.
+PLOT OUTLINE: Analyze attached files for plot outline details.
 
 Review attached files and documentation before returning responses.
